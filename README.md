@@ -4,7 +4,7 @@
 
 2. In the catmap folder, energetics are stored in input.txt and both PCET- and ECH-based mkm files are provided.
 
-3. In the rawdata/cif folder, you could find file.cif of calculated models obtained in this work, including both stable and transition states.
+3. In the rawdata folder, you could find file.cif of calculated models obtained in this work, including both stable and transition states and DFT-based potential energies (eV).
 
 4. In the scripts folder, you could find Python scripts to reproduce main figures reported in this work.
 
