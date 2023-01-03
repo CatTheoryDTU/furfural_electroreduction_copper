@@ -1,0 +1,14 @@
+molecules	E		adsorbates	E (@4.4 V)		transition states	E (@4.4 V)
+H2	-7.12		clean	-833.31		FCHO-ele-H	-921.88
+H2O	-17.05		FCHO	-918.61		FCH-ele-H-O	-921.34
+FCHO	-85.11		FCHOH	-922.39		FCHOH-ele-H	-925.18
+FCH2OH	-92.81		FCH2O	-922.87		FCH2O-ele-H	-925.62
+FCH3	-83.97		FCH2OH	-926.61		FCH-OH-ele-H	-924.88
+			FCH	-908.46		FCH2-O-ele-H	-924.70
+			FCH2	-912.72		FCH2-OH-ele-H	-929.35
+			FCH3	-917.38		FCH-O-ele-H	-921.11
+			H	-836.63		FCH-ele-H	-911.63
+						FCH2-ele-H	-915.84
+						H-ele	-835.90
+						H-ele-H	-839.71
+						H-H	-839.42
